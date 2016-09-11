@@ -1,0 +1,3 @@
+Cuando presionamos una tecla de un piano, éste produce un sonido que tiene una cierta [frecuencia](https://es.wikipedia.org/wiki/Frecuencia). Y cuando presionamos el _la_ central del piano, si está afinado, vamos a escuchar [una nota cuya frecuencia es 440](https://es.wikipedia.org/wiki/La_440). 
+
+> Desarrollá una función `estaAfinado`, que reciba una frecuencia (un número), y diga si dicha frecuencia es igual a 440. 
