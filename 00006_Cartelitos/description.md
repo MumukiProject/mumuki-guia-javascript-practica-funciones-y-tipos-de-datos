@@ -1,6 +1,6 @@
-Para una importante conferencia, los organizadores nos pidieron que escribamos cartelitos identificatorios que cada asistente va a tener. 
+<img width="200px" src="https://raw.githubusercontent.com/mumuki/mumuki-guia-javascript-practica-funciones-y-tipos-de-datos/master/assets/name_badge.png"></img>
 
-Para eso, tenemos que juntar su nombre, su apellido, y su título (_dr._, _dra._, _lic._, etc) y armar un único string. 
+Para una importante conferencia, los organizadores nos pidieron que escribamos cartelitos identificatorios que cada asistente va a tener. Para eso, tenemos que juntar su nombre, su apellido, y su título (_dr._, _dra._, _lic._, etc) y armar un único string. 
 
 > Escribí la función `escribirCartelito`, que tome un título, un nombre y un apellido y forme un único string. Por ejemplo: 
 > 
