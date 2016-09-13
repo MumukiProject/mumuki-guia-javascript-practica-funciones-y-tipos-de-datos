@@ -4,7 +4,7 @@ Ahora que sabemos cuánto nos sale una computadora, queremos saber si una comput
 * tiene al menos un monitor de 32 pulgadas, y
 * tiene al menos 8GB de memoria
 
-> Escribí la función `meConviene`, que nuevamente tome la cantidad de memoria y número de pulgadas: 
+> Escribí la función `meConviene`, que nuevamente tome el número de pulgadas y cantidad de memoria: 
 > 
 > ```javascript
 > ム meConviene(25, 8)
