@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: escribirCartelitoOptimo
+  inspection: HasBinding
+- binding: escribirCartelito
+  inspection: HasBinding
