@@ -1,10 +1,11 @@
 Cuando se juega al truco, los equipos oponentes alternativamente pueden subir la apuesta. Por ejemplo, si un jugador canta _truco_, otro jugador puede cantarle _retruco_. Obviamente, los puntos que están en juego son cada vez mayores: 
 
-|Canto      |Puntos en juego|
-|-----------|---------------|
-|truco      |   2           |
-|retruco    |   3           |
-|vale cuatro|   4           |
+<table class="table">
+   <tr><th>Canto</th><th>Puntos en juego</th></tr>
+   <tr><td>truco</td><td>2</td>
+   <tr><td>retruco</td><td>3</td>
+   <tr><td>vale cuatro</td><td>4</td>
+</table>
 
 > Escribí la función `valorCantoTruco`, que tome el canto y devuelva cuántos puntos vale. 
 > 
