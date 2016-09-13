@@ -1,19 +1,16 @@
-Queremos saber el valor de las cartas de truco cuando jugamos al envido. Sabemos que: 
+Queremos saber el valor de las [cartas de truco](https://es.wikipedia.org/wiki/Truco_argentino) cuando jugamos al _envido_. Sabemos que: 
 
-* El 1 de espadas vale 
-* 
+* todas las cartas del 1 al 7, inclusive, valen su numeración 
+* las cartas del 10 al 12, inclusive, valen 0
+* no se juega con 8s ni con 9s 
 
-1 de espadas	1	Levantar cejas
-1 de bastos	1	Guiñar el ojo derecho
-7 de espadas	7	Levantar labio del lado derecho
-7 de oros	7	Levantar labio del lado izquierdo
-3	3	Morder el labio inferior
-2	2	Fruncir los labios hacia adelante/Beso al aire
-1 de copas y 1 de oros	1	Abrir la boca
-12	0	Enrularse el pelo
-11	0	Tocarse el ojo
-10	0	Tocarse la muñeca
-7 de copas y 7 de bastos	7	Cerrar los ojos
-6	6	Cerrar la boca
-5	5	Sonarse los dedos
-4	4	Doblar la carta
+> Escribí una función valorEnvido, que tome un número de carta y devuelva su valor de envido. 
+> 
+> ```javascript
+> ム valorEnvido(12)
+> 0
+> ム valorEnvido(13)
+> 3
+> ```
+> 
+> :memo: Asumí que nunca te vamos a pasar cartas con valores fuerta de los rangos 1-7 y 10-12 
