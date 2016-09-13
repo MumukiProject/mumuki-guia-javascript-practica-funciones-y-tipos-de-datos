@@ -1,4 +1,4 @@
-Ahora queremos saber si el _la_ central del piano está _cerca_ de estar afinado. Esto ocurre cuando está entre 337Hz y 443Hz, pero NO es exactamente 440Hz. Por ejemplo: 
+Ahora queremos saber si el _la_ central del piano está _cerca_ de estar afinado. Esto ocurre cuando está entre 437Hz y 443Hz, pero NO es exactamente 440Hz. Por ejemplo: 
 
 ```javascript
 ム estaCerca(443)
