@@ -13,4 +13,4 @@ Ahora que sabemos cuánto nos sale una computadora, queremos saber si una comput
 > true // cumple las tres condiciones
 > ```
 > 
-> **Asumí que la función `cuantoCuesta` ya se encuentra desarrollada** 
+> :memo: Asumí que la función `cuantoCuesta` ya se encuentra desarrollada
