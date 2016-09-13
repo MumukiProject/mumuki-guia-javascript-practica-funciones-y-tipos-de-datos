@@ -2,9 +2,9 @@ Cuando se juega al truco, los equipos oponentes alternativamente pueden subir la
 
 <table class="table">
    <tr><th>Canto</th><th>Puntos en juego</th></tr>
-   <tr><td>truco</td><td>2</td>
-   <tr><td>retruco</td><td>3</td>
-   <tr><td>vale cuatro</td><td>4</td>
+   <tr><td>truco</td><td>2</td></tr>
+   <tr><td>retruco</td><td>3</td></tr>
+   <tr><td>vale cuatro</td><td>4</td></tr>
 </table>
 
 > Escribí la función `valorCantoTruco`, que tome el canto y devuelva cuántos puntos vale. 
