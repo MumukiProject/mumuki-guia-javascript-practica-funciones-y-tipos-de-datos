@@ -8,5 +8,5 @@ Queremos comprar una computadora nueva :computer:, y nos gustaría saber cuánto
 > 
 > ```javascript
 > ム cuantoCuesta(25, 8)
-> 4200
+> => 4100
 > ```
