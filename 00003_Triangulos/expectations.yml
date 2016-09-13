@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: perimetroTriangulo
+  inspection: HasBinding
+- binding: areaTriangulo
+  inspection: HasBinding

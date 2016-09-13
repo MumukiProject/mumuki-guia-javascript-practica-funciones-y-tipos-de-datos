@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: perimetroCuadrado
+  inspection: HasBinding
+- binding: areaCuadrado
+  inspection: HasBinding
