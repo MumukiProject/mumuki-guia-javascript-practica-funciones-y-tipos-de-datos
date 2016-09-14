@@ -9,7 +9,7 @@ Queremos saber el valor de las [cartas de truco](https://es.wikipedia.org/wiki/T
 > ```javascript
 > ム valorEnvido(12)
 > 0
-> ム valorEnvido(13)
+> ム valorEnvido(3)
 > 3
 > ```
 > 
