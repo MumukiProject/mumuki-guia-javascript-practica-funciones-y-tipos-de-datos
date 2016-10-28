@@ -4,5 +4,3 @@ it("escribe un cartelito largo cuando el nombre completo es corto", () => {
 it("escribe un cartelito corto cuando el nombre completo es largo", () => { 
   assert.equal(escribirCartelitoOptimo("Dr.", "Estanislao", "Schwarzschild"), "Dr. Schwarzschild")
 })
-  
-  
