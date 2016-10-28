@@ -1,3 +1,3 @@
-function puntosDeEnvido(valor) {
-  return valor >= 10 ? 0 : valor;
+function valorEnvido(numero) {
+  return numero >= 10 ? 0 : numero;
 }
