@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: escribirCartelitoOptimo
+- binding: escribirCartelitoOptimo
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: escribirCartelito
+- binding: escribirCartelito
   inspection: HasBinding

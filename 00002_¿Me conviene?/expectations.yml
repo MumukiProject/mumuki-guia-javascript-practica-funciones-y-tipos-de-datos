@@ -1,11 +1,8 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: meConviene
+- binding: meConviene
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: cuantoCuesta
+- binding: cuantoCuesta
   inspection: Not:HasBinding
-- !ruby/hash:BSON::Document
-  binding: meConviene
+- binding: meConviene
   inspection: Not:HasIf

@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: perimetroTriangulo
+- binding: perimetroTriangulo
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: areaTriangulo
+- binding: areaTriangulo
   inspection: HasBinding
