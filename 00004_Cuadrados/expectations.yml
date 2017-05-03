@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: perimetroCuadrado
+- binding: perimetroCuadrado
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: areaCuadrado
+- binding: areaCuadrado
   inspection: HasBinding
