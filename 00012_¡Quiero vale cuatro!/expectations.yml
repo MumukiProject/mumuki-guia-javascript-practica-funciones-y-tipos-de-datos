@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: valorCantoTruco
+- !ruby/hash:BSON::Document
+  binding: valorCantoTruco
   inspection: HasBinding

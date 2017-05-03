@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: cuantoCuesta
+- !ruby/hash:BSON::Document
+  binding: cuantoCuesta
   inspection: HasBinding

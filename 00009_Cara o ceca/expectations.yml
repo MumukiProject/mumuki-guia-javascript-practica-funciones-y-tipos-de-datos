@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: decisionConMoneda
+- !ruby/hash:BSON::Document
+  binding: decisionConMoneda
   inspection: HasBinding
