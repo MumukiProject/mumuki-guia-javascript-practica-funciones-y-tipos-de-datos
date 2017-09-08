@@ -2,3 +2,5 @@
 expectations:
 - binding: decisionConMoneda
   inspection: HasBinding
+- binding: "*"
+  inspection: Except:DoesTypeTest
