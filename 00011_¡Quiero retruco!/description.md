@@ -1,9 +1,9 @@
-Bueno, ehm, no, pará, primero queremos calcular cuantos puntos de envido suma un jugador. Sabemos que: 
+Bueno, ehm, no, pará, primero queremos calcular cuántos puntos de envido suma un jugador. Sabemos que: 
 
 * Si las dos cartas son del mismo palo, el valor del envido es la suma de sus valores más 20.
 * De lo contrario, el valor del envido es el mayor valor de envido entre ellas.  
 
-> Utilizando la función `valorEnvido` (que ya escribimos nosotros por vos), desarrollá la función `puntosDeEnvidoTotales` que tome los valores y palos de dos cartas y diga cuanto envido suman en total. Ejemplo: 
+> Utilizando la función `valorEnvido` (que ya escribimos nosotros por vos), desarrollá la función `puntosDeEnvidoTotales` que tome los valores y palos de dos cartas y diga cuánto envido suman en total. Ejemplo: 
 > 
 > ```javascript
 > ム puntosDeEnvidoTotales(1, "espadas", 4, "espadas")
