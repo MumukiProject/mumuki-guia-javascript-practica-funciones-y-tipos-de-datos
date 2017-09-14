@@ -1,4 +1,4 @@
-Ahora que sabemos cuánto nos sale una computadora, queremos saber si una computadora _me conviene_: esto ocurre cuando 
+Ahora que sabemos cuánto nos sale una computadora, queremos saber si una computadora _me conviene_. Esto ocurre cuando: 
 
 * sale menos de $6000, y
 * tiene al menos un monitor de 32 pulgadas, y
