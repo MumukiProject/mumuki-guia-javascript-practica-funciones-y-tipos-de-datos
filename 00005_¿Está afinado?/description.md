@@ -6,6 +6,6 @@ Cuando presionamos una tecla de un piano, éste produce un sonido que tiene una 
 > Desarrollá una función `estaAfinado`, que reciba la frecuencia (un número) del _la_ central, y diga si dicha frecuencia es igual a 440Hz.
 > 
 > ```javascript
-> estaAfinado(440)
-> ム true
+> ム estaAfinado(440)
+> true
 > ````
