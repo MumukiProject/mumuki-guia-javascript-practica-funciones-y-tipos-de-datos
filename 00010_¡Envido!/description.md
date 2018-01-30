@@ -13,4 +13,4 @@ Queremos saber el valor de las [cartas de truco](https://es.wikipedia.org/wiki/T
 > 3
 > ```
 > 
-> :memo: Asumí que nunca te vamos a pasar cartas con valores fuerta de los rangos 1-7 y 10-12 
+> :memo: Asumí que nunca te vamos a pasar cartas con valores fuera de los rangos 1-7 y 10-12 
