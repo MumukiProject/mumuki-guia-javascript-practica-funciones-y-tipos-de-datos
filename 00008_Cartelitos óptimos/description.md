@@ -9,7 +9,7 @@ Ahora que ya podemos escribir nuestros cartelitos identificatorios grandes y chi
 > ム escribirCartelitoOptimo("Ing.", "Carla", "Toledo")
 > "Ing. Carla Toledo"
 > ム escribirCartelitoOptimo("Dr.", "Estanislao", "Schwarzschild")
-> "Ing. Schwarzschild"
+> "Dr. Schwarzschild"
 > ```
 >
 > :memo: No modifiques la función original. 
