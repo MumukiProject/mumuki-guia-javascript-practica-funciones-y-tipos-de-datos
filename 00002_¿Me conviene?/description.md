@@ -9,7 +9,7 @@ Ahora que sabemos cuánto nos sale una computadora, queremos saber si una comput
 > ```javascript
 > ム meConviene(25, 8)
 > false // porque el monitor es demasiado chico
-> ム meConviene(42, 16)
+> ム meConviene(42, 12)
 > true // cumple las tres condiciones
 > ```
 > 
