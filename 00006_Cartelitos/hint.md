@@ -1,1 +1,1 @@
-Tené en cuenta que los espacios para separar las palabras también son caracteres. ¡No te olvides de incluirlos! :wink:
+Tené en cuenta que los espacios para separar las palabras también son caracteres, y se escriben así: `" "`. ¡No te olvides de incluirlos al armar los cartelitos! :wink:
