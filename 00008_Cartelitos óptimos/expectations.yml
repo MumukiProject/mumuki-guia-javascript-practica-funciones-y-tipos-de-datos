@@ -6,3 +6,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: escribirCartelitoOptimo
   inspection: Uses:escribirCartelito
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: escribirCartelitoOptimo
+  inspection: Not:UsesIf
