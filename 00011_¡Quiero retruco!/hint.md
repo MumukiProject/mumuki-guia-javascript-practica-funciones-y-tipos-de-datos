@@ -1,0 +1,1 @@
+Recordá que para obtener el número más grande entre dos números tenemos la función `Math.max`.
