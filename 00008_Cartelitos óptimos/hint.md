@@ -1,1 +1,1 @@
-Recordá que contás con la función `longitud`
+Recordá que contás con la función `longitud`. No tenés que hacer de nuevo `escribirCartelito`.
