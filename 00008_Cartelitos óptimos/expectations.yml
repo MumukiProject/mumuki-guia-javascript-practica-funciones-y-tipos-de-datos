@@ -4,5 +4,5 @@ expectations:
   binding: escribirCartelitoOptimo
   inspection: HasBinding
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: escribirCartelito
-  inspection: HasBinding
+  binding: escribirCartelitoOptimo
+  inspection: Uses:escribirCartelito
