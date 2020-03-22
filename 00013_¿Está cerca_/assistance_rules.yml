@@ -3,5 +3,5 @@ rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     only_these_tests_failed:
-    - NO estaCerca(440)
+    - "> NO estaCerca(440)"
   then: recordá que si es exactamente 440Hz _no está cerca_
