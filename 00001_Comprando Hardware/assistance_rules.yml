@@ -1,0 +1,9 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    only_these_expectations_failed:
+    - "* Not:UsesIf"
+  then: ":eyes: ¡Ojo! No necesitás usar `if`, dado que siempre hay que devolver el
+    resultado de la misma cuenta: _la cantidad de pulgadas por sesenta más la cantidad
+    de memoria por doscientos más el precio base_"
