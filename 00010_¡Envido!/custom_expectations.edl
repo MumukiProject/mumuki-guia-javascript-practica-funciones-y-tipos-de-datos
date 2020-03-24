@@ -1,0 +1,2 @@
+expectation "`valorEnvido` debe devolver un número que represente cuanto envido tenés, no un booleano que indique si tenés o no envido": 
+   within `valorEnvido` ! returns with logic;
