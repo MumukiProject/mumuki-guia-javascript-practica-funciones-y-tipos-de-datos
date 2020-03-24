@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:escribirCartelito
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: escribirCartelito
+  inspection: UsesIf
