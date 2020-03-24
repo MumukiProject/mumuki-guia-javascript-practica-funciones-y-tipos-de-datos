@@ -1,4 +1,4 @@
-Ahora que ya podemos escribir nuestros cartelitos identificatorios grandes y chicos, queremos una **nueva** función que nos dé el cartelito de tamaño óptimo: 
+Ahora que ya podemos escribir nuestros cartelitos identificatorios grandes y chicos, queremos una función que nos dé el cartelito de tamaño óptimo: 
 
 * si nombre y apellido tienen, en total, más de 15 letras, queremos un cartelito corto;
 * de lo contrario, queremos un cartelito largo.
@@ -12,4 +12,4 @@ Ahora que ya podemos escribir nuestros cartelitos identificatorios grandes y chi
 > "Dr. Schwarzschild"
 > ```
 >
-> :memo: Te dejamos en la biblioteca la función  `escribirCartelito` que hiciste antes. ¡Usala cuando necesites!
+> :memo: No modifiques la función original. 
