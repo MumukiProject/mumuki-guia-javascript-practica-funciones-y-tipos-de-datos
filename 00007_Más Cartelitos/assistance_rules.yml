@@ -1,0 +1,9 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    only_these_expectations_failed:
+    - escribirCartelito UsesIf
+  then: vas a tener que tomar decisiones, porque dependiendo del cuarto argumento
+    tendrás que devolver un cartel corto y otras un cartel largo; ¡parece una tarea
+    par aun `if`!
