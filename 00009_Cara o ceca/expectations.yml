@@ -7,5 +7,5 @@ expectations:
   binding: "*"
   inspection: Except:DoesTypeTest
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
+  binding: decisionConMoneda
   inspection: UsesIf
