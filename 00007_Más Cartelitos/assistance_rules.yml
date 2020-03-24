@@ -4,6 +4,6 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     only_these_expectations_failed:
     - escribirCartelito UsesIf
-  then: vas a tener que tomar decisiones, porque dependiendo del cuarto argumento
-    tendrás que devolver un cartel corto o un cartel largo; :thinking_face:_ _parece
-    una tarea par aun `if`
+  then: 'vas a tener que tomar decisiones, porque dependiendo del cuarto argumento
+    tendrás que devolver un cartel corto o un cartel largo; :thinking_face: _parece
+    una tarea para un `if`_'
