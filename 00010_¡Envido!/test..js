@@ -12,7 +12,7 @@ describe("valorEnvido", () => {
   try {
     let resultado = [1, 2, 3, 4, 5, 6, 7, 10, 11, 12].every(it => typeof(valorEnvido(it)) !== 'string');
     it("no devuelve strings", () => {
-      assert(resultado)
+      assert(resultado, "ojo, en algun caso estás devolviendo strings")
     })
   } catch (e) {}
   
