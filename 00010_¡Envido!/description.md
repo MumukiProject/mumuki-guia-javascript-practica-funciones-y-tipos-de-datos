@@ -4,7 +4,7 @@ Queremos saber el valor de las [cartas de truco](https://es.wikipedia.org/wiki/T
 * las cartas del 10 al 12, inclusive, valen 0
 * no se juega con 8s ni con 9s 
 
-> Escribí una función valorEnvido, que tome un número de carta y devuelva su valor de envido. 
+> Escribí una función `valorEnvido`, que tome un número de carta y devuelva su valor de envido. 
 > 
 > ```javascript
 > ム valorEnvido(12)
@@ -13,4 +13,3 @@ Queremos saber el valor de las [cartas de truco](https://es.wikipedia.org/wiki/T
 > 3
 > ```
 > 
-> :memo: Asumí que nunca te vamos a pasar cartas con valores fuera de los rangos 1-7 y 10-12 
