@@ -5,5 +5,5 @@ rules:
     these_tests_failed:
     - valorEnvido no devuelve strings
   then: 'cuidado con las comillas: en este ejercicio tenés que calcular el valor de
-    envido, el cual es un número (como por ejemplo el `0`), no un string (como por
-    ejemplo `"0"`)'
+    envido, el cual es un _número_ (como por ejemplo el `0`), no un _string_ (como
+    por ejemplo `"0"`)'
