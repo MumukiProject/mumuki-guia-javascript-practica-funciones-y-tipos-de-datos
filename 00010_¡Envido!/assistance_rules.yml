@@ -1,0 +1,9 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_tests_failed:
+    - valorEnvido no devuelve strings
+  then: en este ejercicio tenés que calcular el valor de envido, el cual es un número
+    (como por ejemplo el `0`), no un string (como por ejemplo `"0"`); recordá que
+    los números se escriben sin comillas
