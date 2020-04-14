@@ -1,0 +1,9 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_tests_failed:
+    - meConviene valida los casos borde
+  then: para que te convenga, el monitor tiene que ser de **al menos** 32 pulgadas,
+    y **al menos**  tener 8GB de memoria; eso significa que ya con esos valores alcanza
+    y quizás te convenga usar el operador `>=`
