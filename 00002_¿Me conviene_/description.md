@@ -1,4 +1,4 @@
-Ahora que sabemos cuánto nos sale una computadora, queremos saber si una computadora _me conviene_. Esto ocurre cuando: 
+Ahora que sabemos `cuantoCuesta` una computadora, queremos saber si una computadora _me conviene_. Esto ocurre cuando: 
 
 * sale menos de $6000, y
 * tiene al menos un monitor de 32 pulgadas, y
@@ -13,4 +13,4 @@ Ahora que sabemos cuánto nos sale una computadora, queremos saber si una comput
 > true // cumple las tres condiciones
 > ```
 > 
-> :memo: Asumí que la función `cuantoCuesta` ya se encuentra desarrollada
+> :memo: La función `cuantoCuesta` ya se encuentra desarrollada
