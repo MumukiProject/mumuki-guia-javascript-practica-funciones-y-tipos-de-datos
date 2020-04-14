@@ -1,6 +1,10 @@
 ---
 locale: es
-tags: []
+tags:
+- booleanos
+- funciones
+- casos-borde
+- reutilizacion
 layout: input_right
 editor: code
 type: problem
