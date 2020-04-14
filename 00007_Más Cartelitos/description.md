@@ -1,6 +1,4 @@
-Ah, ¡pero no tan rápido! Algunas veces en nuestro cartelito :name_badge: sólo queremos el título y el apellido, sin el nombre.   
-
-Por eso ahora nos toca mejorar nuestra función de forma que tenga 4 parámetros: 
+Ah, ¡pero no tan rápido! Algunas veces en nuestro cartelito :name_badge: sólo queremos el título y el apellido, sin el nombre. Por eso ahora nos toca mejorar nuestra función `escribirCartelito` de forma que tenga 4 parámetros: 
 
 1. el título;
 2. el nombre;
