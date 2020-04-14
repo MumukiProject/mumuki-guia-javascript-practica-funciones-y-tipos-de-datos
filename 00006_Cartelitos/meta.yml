@@ -1,6 +1,9 @@
 ---
 locale: es
-tags: []
+tags:
+- strings
+- concatenacion
+- espacios-blancos
 layout: input_right
 editor: code
 type: problem
