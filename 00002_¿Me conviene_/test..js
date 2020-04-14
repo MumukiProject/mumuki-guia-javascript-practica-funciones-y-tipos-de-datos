@@ -47,6 +47,6 @@ describe("meConviene", () => {
     resultado && it("valida los casos borde", () => {
       assert.fail("no estás controlando adecuadamente los casos borde");
     })
-  } catch() {}
+  } catch(e) {}
   
 })
