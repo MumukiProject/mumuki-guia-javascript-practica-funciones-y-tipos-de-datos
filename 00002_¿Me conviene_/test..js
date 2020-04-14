@@ -3,7 +3,7 @@ it("meConviene(25, 8) es falso", () => {
 })
 
 it("meConviene(40, 8) es verdadero", () => {
-  assert(meConviene(40, 8))
+  assert(meConviene(40, 8), "ojo, tiene que tener 8GB o más")
 })
 
 it("meConviene(40, 10) es verdadero", () => {
@@ -11,7 +11,7 @@ it("meConviene(40, 10) es verdadero", () => {
 })
 
 it("meConviene(32, 8) es verdadero", () => {
-  assert(meConviene(32, 8))
+  assert(meConviene(32, 8). "ojo, tiene que tener 32 pulgadas o más")
 })
 
 it("meConviene(40, 4) es falso", () => {
