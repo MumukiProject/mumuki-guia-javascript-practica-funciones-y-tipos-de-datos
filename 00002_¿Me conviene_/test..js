@@ -29,14 +29,13 @@ describe("meConviene", () => {
     let resultado = [
       !meConviene(31, 8), 
       !meConviene(31, 9),
-      !meConviene(32, 8),  // debería ser false
-      !meConviene(32, 9),  // debería ser false
-      !meConviene(33, 8),  // debería ser false
+      !meConviene(32, 8),  // caso borde
+      !meConviene(32, 9),  // caso borde
+      !meConviene(33, 8),  // caso borde
       meConviene(33, 9),
       meConviene(34, 9),
       meConviene(34, 10),
-      meConviene(32, 15),
-      meConviene(32, 15),
+      !meConviene(32, 15), // caso borde
       meConviene(33, 15),
       !meConviene(34, 15),
       !meConviene(35, 15),
