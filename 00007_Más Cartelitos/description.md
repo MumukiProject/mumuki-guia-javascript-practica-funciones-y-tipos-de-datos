@@ -8,8 +8,11 @@ Ah, ¡pero no tan rápido! Algunas veces en nuestro cartelito :name_badge: sólo
 > Modificá la función `escribirCartelito`, de forma que se comporte como se describe arriba. Ejemplo: 
 > 
 > ```javascript
+> // cartelito corto
 > ム escribirCartelito("Lic.", "Tomás", "Peralta", true)
 > "Lic. Peralta"
+>
+> // cartelito largo
 > ム escribirCartelito("Ing.", "Dana", "Velázquez", false)
 > "Ing. Dana Velázquez"
 > ```
