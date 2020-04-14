@@ -4,7 +4,7 @@ Ahora que sabemos `cuantoCuesta` una computadora, queremos saber si una computad
 * tiene al menos un monitor de 32 pulgadas, y
 * tiene al menos 8GB de memoria
 
-> Escribí la función `meConviene`, que nuevamente tome el número de pulgadas y cantidad de memoria: 
+> Escribí la función `meConviene`, que nuevamente tome el número de pulgadas y cantidad de memoria y nos diga si nos conviene comprarla: 
 > 
 > ```javascript
 > ム meConviene(25, 8)
