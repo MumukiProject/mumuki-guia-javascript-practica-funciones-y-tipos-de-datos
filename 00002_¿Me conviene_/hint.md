@@ -2,6 +2,6 @@
 
 ```javascript
 // toma el número de pulgadas y la cantidad de memoria
-> cuantoCuesta(25, 8)
+ム cuantoCuesta(25, 8)
 4100
 ```
