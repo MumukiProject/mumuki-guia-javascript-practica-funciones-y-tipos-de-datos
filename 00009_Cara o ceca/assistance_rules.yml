@@ -3,7 +3,7 @@ rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
-    - "* Not:Declares:decisionConMoneda"
+    - "* Declares:decisionConMoneda"
   then: "¡No te olvides de declarar `decisionConMoneda`!"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
