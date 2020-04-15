@@ -4,7 +4,7 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - "* Declares:escribirCartelito"
-  then: 'en el ejercicio :arrow_backward: anterior escribiste `escribirCartelito`,
+  then: 'en el ejercicio :arrow_backward: anterior definiste `escribirCartelito`,
     y en este tenés que modificarlo, así que **no borres su declaración**'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
