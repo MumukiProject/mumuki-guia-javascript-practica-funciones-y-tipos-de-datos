@@ -3,6 +3,11 @@ rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
+    - "* Not:Declares:decisionConMoneda"
+  then: "¡No te olvides de declarar `decisionConMoneda`!"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
     - decisionConMoneda UsesIf
   then: si sale _cara_ tiene que retornar el segundo parámetro, y si no, el tercero;
     estamos tomando una decisión, así que deberíamos usar un `if`

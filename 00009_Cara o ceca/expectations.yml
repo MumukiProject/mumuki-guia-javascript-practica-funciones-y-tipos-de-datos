@@ -1,8 +1,8 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: decisionConMoneda
-  inspection: HasBinding
+  binding: "*"
+  inspection: Not:Declares:decisionConMoneda
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Except:DoesTypeTest
