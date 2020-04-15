@@ -2,7 +2,7 @@
 rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    only_these_expectations_failed:
+    these_expectations_failed:
     - decisionConMoneda UsesIf
   then: si sale _cara_ tiene que retornar el segundo parámetro, y si no, el tercero;
     estamos tomando una decisión, así que deberíamos usar un `if`
