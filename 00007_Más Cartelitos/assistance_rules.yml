@@ -3,7 +3,7 @@ rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
-    - "* Declares:escribirCartelito"
+    - "* UsesIf"
   then: 'al escribir un cartelito vas a tener que tomar decisiones, porque dependiendo
     del cuarto argumento tendrás que devolver un cartel corto o un cartel largo; :thinking_face:
     _parece una tarea para un `if`_'
