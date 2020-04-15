@@ -4,5 +4,5 @@ expectations:
   binding: "*"
   inspection: Declares:escribirCartelito
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: escribirCartelito
+  binding: "*"
   inspection: UsesIf
