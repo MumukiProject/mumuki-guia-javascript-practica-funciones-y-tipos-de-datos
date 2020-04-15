@@ -1,6 +1,10 @@
 ---
 locale: es
-tags: []
+tags:
+- strings
+- alternativa-condicional
+- concatenacion
+- modificar-codigo
 layout: input_right
 editor: code
 type: problem
