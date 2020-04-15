@@ -4,7 +4,7 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - "* Declares:decisionConMoneda"
-  then: "¡No te olvides de declarar `decisionConMoneda`!"
+  then: 'No te olvides de declarar `decisionConMoneda` :sweat_smile:'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
