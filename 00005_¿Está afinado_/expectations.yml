@@ -8,4 +8,4 @@ expectations:
   inspection: DeclaresComputationWithArity1:estaAfinado
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: estaAfinado
-  inspection: Uses:===
+  inspection: Uses:====
