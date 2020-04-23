@@ -5,4 +5,4 @@ expectations:
   inspection: Declares:valorEnvido
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Not:SourceContains:return 2;
+  inspection: Not:SourceContains:return 2
