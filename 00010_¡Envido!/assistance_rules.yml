@@ -8,15 +8,7 @@ rules:
     envido, el cual es un _número_ (como por ejemplo el `0`), no un _string_ (como
     por ejemplo `"0"`)'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    these_expectations_failed:
-    - "* Not:SourceContains:return 1"
-    - "* Not:SourceContains:return 2"
-    - "* Not:SourceContains:return 3"
-    - "* Not:SourceContains:return 4"
-    - "* Not:SourceContains:return 5"
-    - "* Not:SourceContains:return 6"
-    - "* Not:SourceContains:return 7"
+  when: submission_passed_with_warnings
   then: no tenés que fijarte qué pasa con las cartas del 1 al 7 ya que siempre van
     a devolver su mismo valor. Pero... ¿qué pasa con los números del 10 al 12? Tomate
     un tiempo para pensarlo
