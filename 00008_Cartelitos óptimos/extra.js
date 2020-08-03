@@ -1,3 +1,4 @@
+
 // Nos retorná el texto de un cartelito. El último parámetro determina si va a ser corto o largo  cuan largo es un string
 //
 // Por ejemplo:
@@ -7,8 +8,8 @@
 //  ム escribirCartelito("Dra.", "Zelika", "Vera", false)
 //  "Dra. Zelika Vera"
 
-function escribirCartelito(titulo, nombre, apellido, quiere_corto) /*<elipsis-for-student@*/ {
-  if(quiere_corto) {
+function escribirCartelito(titulo, nombre, apellido, quiere_cartel_corto) /*<elipsis-for-student@*/ {
+  if(quiere_cartel_corto) {
     return titulo + " " + apellido;
   }
   else {
