@@ -1,4 +1,4 @@
-function cuantoCuesta(pulgadas, memoria) {
+function cuantoCuesta(pulgadas, memoria) /*<elipsis-for-student@*/ {
   if (typeof(pulgadas) !== 'number') {
     throw new Error("el primer argumento de cuantoCuesta debe ser un número")
   }
@@ -7,4 +7,4 @@ function cuantoCuesta(pulgadas, memoria) {
   }
   
   return 60 * pulgadas + 200 * memoria + 1000
-}
+} /*@elipsis-for-student>*/

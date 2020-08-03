@@ -13,4 +13,4 @@ Ahora que sabemos `cuantoCuesta` una computadora, queremos saber si una computad
 > true // cumple las tres condiciones
 > ```
 > 
-> :memo: Tené en cuenta que la función `cuantoCuesta` ya se encuentra desarrollada
+> En la Biblioteca ya está definida la función `cuantoCuesta` lista para ser invocada.

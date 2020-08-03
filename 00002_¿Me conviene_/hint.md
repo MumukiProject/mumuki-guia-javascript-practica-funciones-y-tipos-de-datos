@@ -1,7 +1,1 @@
-¿Y cómo se usaba `cuantoCuesta`? :thinking_face: Te lo recordamos:
-
-```javascript
-// toma el número de pulgadas y la cantidad de memoria
-ム cuantoCuesta(25, 8)
-4100
-```
+¿Y cómo invoco `cuantoCuesta`? Pasándole como primer argumento el número de pulgadas y como segundo la cantidad de memoria. :sunglasses:
