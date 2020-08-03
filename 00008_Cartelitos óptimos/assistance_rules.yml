@@ -4,5 +4,5 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - Intransitive:escribirCartelitoOptimo Not:UsesIf
-  then: Ya hiciste  un `if` en `escribirCartelito`, ahora solamente tenés que resolver
-    qué condición le pasas como argumento
+  then: "`escribirCartelito` ya tiene un `if`, ahora solamente tenés que resolver
+    qué condición le pasas como argumento"
