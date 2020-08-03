@@ -1,1 +1,1 @@
-Recordá que contás con la función `longitud`. No tenés que hacer de nuevo `escribirCartelito`, solo usarla. :wink:
+Recordá que contás con las funciones `longitud` y  `escribirCartelito`, no tenés que definirlas solo invocarlas. :wink:

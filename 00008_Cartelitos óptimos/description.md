@@ -12,4 +12,4 @@ Ahora que ya podemos escribir nuestros cartelitos identificatorios grandes y chi
 > "Dr. Schwarzschild"
 > ```
 >
-> :memo: Te dejamos en la biblioteca la función  `escribirCartelito` que hiciste antes. ¡Usala cuando necesites!
+> :memo: Te dejamos en la biblioteca la función  `escribirCartelito` definida. ¡Usala cuando necesites!
