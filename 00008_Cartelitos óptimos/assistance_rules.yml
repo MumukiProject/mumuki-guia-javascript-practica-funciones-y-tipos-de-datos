@@ -5,4 +5,4 @@ rules:
     these_expectations_failed:
     - Intransitive:escribirCartelitoOptimo Not:UsesIf
   then: Ya hiciste  un `if` en `escribirCartelito`, ahora solamente tenés que resolver
-    qué condición le pasas como argumento.
+    qué condición le pasas como argumento
