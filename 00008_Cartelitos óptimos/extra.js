@@ -9,7 +9,7 @@ function escribirCartelito(titulo, nombre, apellido, quiere_cartel_corto) /*<eli
     return titulo + " " + nombre + " " + apellido;
   }
 } /*@elipsis-for-student>*/
-// Nos retorná el texto de un cartelito. El último parámetro determina si va a ser corto o largo  cuan largo es un string
+// Nos retorna el texto de un cartelito. El último parámetro determina si va a ser corto o largo  cuan largo es un string
 //
 // Por ejemplo:
 //
