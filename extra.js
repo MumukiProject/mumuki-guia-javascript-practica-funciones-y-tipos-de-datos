@@ -16,7 +16,6 @@ function longitud(unString) /*<elipsis-for-student@*/ {
 //  ム longitud("hola")
 //  4
 
-//==============================================================
 
 function convertirEnMayuscula(unString) /*<elipsis-for-student@*/ {
   return unString.toUpperCase()
@@ -28,7 +27,6 @@ function convertirEnMayuscula(unString) /*<elipsis-for-student@*/ {
 //  ム convertirEnMayuscula("hola")
 //  "HOLA"
 
-//==============================================================
 
 function comienzaCon(unString, otroString) /*<elipsis-for-student@*/ {
   return unString.startsWith(otroString);
