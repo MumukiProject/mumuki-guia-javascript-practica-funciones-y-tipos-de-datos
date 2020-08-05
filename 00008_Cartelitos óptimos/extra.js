@@ -1,6 +1,3 @@
-
-//==============================================================
-
 function escribirCartelito(titulo, nombre, apellido, quiere_cartel_corto) /*<elipsis-for-student@*/ {
   if(quiere_cartel_corto) {
     return titulo + " " + apellido;
