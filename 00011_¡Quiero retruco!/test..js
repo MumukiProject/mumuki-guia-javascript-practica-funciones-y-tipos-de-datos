@@ -6,6 +6,6 @@ it("puntosDeEnvidoTotales(6, \"copas\", 11, \"copas\") es 26", ()  => {
   assert.equal(puntosDeEnvidoTotales(6, "copas", 11, "copas"), 26)
 })
 
-it("puntosDeEnvidoTotales(6, \"copas\", 7, \"espadas\") es 8", ()  => {
+it("puntosDeEnvidoTotales(6, \"copas\", 7, \"espadas\") es 7", ()  => {
   assert.equal(puntosDeEnvidoTotales(6, "copas", 7, "espadas"), 7)
 })
