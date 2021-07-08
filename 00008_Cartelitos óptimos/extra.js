@@ -1,5 +1,5 @@
-function escribirCartelito(titulo, nombre, apellido, quiere_cartel_corto) /*<elipsis-for-student@*/ {
-  if(quiere_cartel_corto) {
+function escribirCartelito(titulo, nombre, apellido, quiereCartelCorto) /*<elipsis-for-student@*/ {
+  if(quiereCartelCorto) {
     return titulo + " " + apellido;
   }
   else {
