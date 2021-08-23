@@ -5,7 +5,7 @@ Cuando presionamos una tecla de un piano, éste produce un sonido que tiene una 
 </div>
 
 
-> Desarrollá una función `estaAfinado`, que reciba la frecuencia (un número) del _la_ central, y diga si dicha frecuencia es igual a 440Hz.
+> Definí una función `estaAfinado`, que reciba la frecuencia (un número) del _la_ central, y retorne si dicha frecuencia es igual a 440Hz.
 > 
 > ```javascript
 > ム estaAfinado(440)
