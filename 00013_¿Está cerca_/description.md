@@ -12,4 +12,4 @@ false //está en el rango,
 false //está fuera del rango
 ```
 
-> Escribí la función `estaCerca`
+> Definí la función `estaCerca`
