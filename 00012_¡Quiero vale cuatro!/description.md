@@ -7,7 +7,7 @@ Cuando se juega al truco, los equipos oponentes alternativamente pueden subir la
    <tr><td>vale cuatro</td><td>4</td></tr>
 </table>
 
-> Escribí la función `valorCantoTruco`, que tome el canto y devuelva cuántos puntos vale. 
+> Definí la función `valorCantoTruco`, que tome el canto y retorne cuántos puntos vale. 
 > 
 > ```javascript
 > ム valorCantoTruco("retruco")
