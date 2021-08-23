@@ -6,7 +6,7 @@ Para una importante conferencia, el comité organizador nos pidió que escribamo
  
 Para eso, tenemos que juntar su nombre, su apellido, y su título (_dr._, _dra._, _lic._, etc) y armar un único string. 
 
-> Escribí la función `escribirCartelito`, que tome un título, un nombre y un apellido y forme un único string. Por ejemplo: 
+> Definí la función `escribirCartelito`, que tome un título, un nombre y un apellido y forme un único string. Por ejemplo: 
 > 
 > ```javascript
 > ム escribirCartelito("Dra.", "Ana", "Pérez")
