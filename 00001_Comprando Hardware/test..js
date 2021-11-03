@@ -1,4 +1,4 @@
-it("cuantoCuesta(25, 8) devuelve 4200", () => { 
+it("cuantoCuesta(25, 8) devuelve 4100", () => { 
   assert.equal(cuantoCuesta(25, 8), 4100)
 })
 
