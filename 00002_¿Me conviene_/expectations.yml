@@ -14,4 +14,4 @@ expectations:
   inspection: Not:UsesIf
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity3:meConviene
+  inspection: DeclaresComputationWithArity2:meConviene
