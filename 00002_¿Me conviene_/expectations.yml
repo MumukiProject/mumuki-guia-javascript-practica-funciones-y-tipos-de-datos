@@ -5,10 +5,13 @@ expectations:
   inspection: Not:Declares:cuantoCuesta
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: meConviene
-  inspection: Uses:cuantoCuesta
+  inspection: Calls:cuantoCuesta
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: DeclaresFunction:meConviene
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Not:UsesIf
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity3:meConviene
