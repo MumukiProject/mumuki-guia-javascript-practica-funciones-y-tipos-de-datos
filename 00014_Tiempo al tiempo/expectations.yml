@@ -1,0 +1,20 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:aniosEnDias
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: aniosEnDias
+  inspection: Returns
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:diasEnAnios
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: diasEnAnios
+  inspection: Returns
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: aniosEnDias
+  inspection: Not:Uses:diasEnAnios
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: diasEnAnios
+  inspection: Not:Uses:aniosEnDias

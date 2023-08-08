@@ -1,7 +1,6 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     these_expectations_failed:
     - Intransitive:escribirCartelitoOptimo Not:UsesIf
   then: "`escribirCartelito` ya tiene un `if`, ahora solamente tenés que resolver

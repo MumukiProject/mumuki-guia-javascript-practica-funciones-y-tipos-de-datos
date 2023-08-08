@@ -1,15 +1,12 @@
 ---
 locale: es
-tags:
-- strings
-- concatenacion
-- espacios-blancos
-layout: input_right
+tags: []
+layout: input_bottom
 editor: code
 type: problem
-extra_visible: true
+extra_visible: false
 teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices: []
-name: Cartelitos
+name: Tiempo al tiempo

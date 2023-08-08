@@ -1,12 +1,10 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     these_expectations_failed:
     - "* Declares:decisionConMoneda"
   then: 'No te olvides de declarar `decisionConMoneda` :sweat_smile:'
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     these_expectations_failed:
     - decisionConMoneda UsesIf
   then: si sale _cara_ tiene que retornar el segundo parámetro, y si no, el tercero;

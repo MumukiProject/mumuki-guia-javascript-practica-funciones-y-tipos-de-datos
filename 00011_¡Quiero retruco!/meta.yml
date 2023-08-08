@@ -7,5 +7,6 @@ type: problem
 extra_visible: true
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices: []
 name: "¡Quiero retruco!"
